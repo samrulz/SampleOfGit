@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    @IBAction func clicAction(_sender:UIButton){
+        print("hi I am ios developer")
+    }
 }
 
