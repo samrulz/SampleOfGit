@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BBEA844E2049D4BD0089DB0E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEA844D2049D4BD0089DB0E /* SecondViewController.swift */; };
+		BBEA84502049D78F0089DB0E /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEA844F2049D78F0089DB0E /* ThirdViewController.swift */; };
 		BBF7318120432BA200AFB30E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF7318020432BA200AFB30E /* AppDelegate.swift */; };
 		BBF7318320432BA200AFB30E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF7318220432BA200AFB30E /* ViewController.swift */; };
 		BBF7318620432BA200AFB30E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBF7318420432BA200AFB30E /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		BBEA844D2049D4BD0089DB0E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		BBEA844F2049D78F0089DB0E /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		BBF7317D20432BA200AFB30E /* SampleOfGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleOfGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBF7318020432BA200AFB30E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BBF7318220432BA200AFB30E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				BBF7318020432BA200AFB30E /* AppDelegate.swift */,
 				BBF7318220432BA200AFB30E /* ViewController.swift */,
 				BBEA844D2049D4BD0089DB0E /* SecondViewController.swift */,
+				BBEA844F2049D78F0089DB0E /* ThirdViewController.swift */,
 				BBF7318420432BA200AFB30E /* Main.storyboard */,
 				BBF7318720432BA200AFB30E /* Assets.xcassets */,
 				BBF7318920432BA200AFB30E /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				BBEA844E2049D4BD0089DB0E /* SecondViewController.swift in Sources */,
 				BBF7318320432BA200AFB30E /* ViewController.swift in Sources */,
+				BBEA84502049D78F0089DB0E /* ThirdViewController.swift in Sources */,
 				BBF7318120432BA200AFB30E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
