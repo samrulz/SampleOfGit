@@ -22,6 +22,7 @@ class ViewController: UIViewController {
 
     @IBAction func clicAction(_sender:UIButton){
         print("hi I am ios developer")
+        print("odiya wale yedafoda")
     }
 }
 
