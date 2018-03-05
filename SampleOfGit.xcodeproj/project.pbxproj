@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BBD4FD4E204D8067002DA94D /* SixthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD4FD4D204D8067002DA94D /* SixthViewController.swift */; };
 		BBEA844E2049D4BD0089DB0E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEA844D2049D4BD0089DB0E /* SecondViewController.swift */; };
 		BBEA84502049D78F0089DB0E /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEA844F2049D78F0089DB0E /* ThirdViewController.swift */; };
 		BBEA84562049DD160089DB0E /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEA84552049DD160089DB0E /* FourthViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BBD4FD4D204D8067002DA94D /* SixthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthViewController.swift; sourceTree = "<group>"; };
 		BBEA844D2049D4BD0089DB0E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		BBEA844F2049D78F0089DB0E /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		BBEA84552049DD160089DB0E /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				BBEA844D2049D4BD0089DB0E /* SecondViewController.swift */,
 				BBEA844F2049D78F0089DB0E /* ThirdViewController.swift */,
 				BBEA84552049DD160089DB0E /* FourthViewController.swift */,
+				BBD4FD4D204D8067002DA94D /* SixthViewController.swift */,
 				BBF7318420432BA200AFB30E /* Main.storyboard */,
 				BBF7318720432BA200AFB30E /* Assets.xcassets */,
 				BBF7318920432BA200AFB30E /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BBEA844E2049D4BD0089DB0E /* SecondViewController.swift in Sources */,
+				BBD4FD4E204D8067002DA94D /* SixthViewController.swift in Sources */,
 				BBF7318320432BA200AFB30E /* ViewController.swift in Sources */,
 				BBEA84502049D78F0089DB0E /* ThirdViewController.swift in Sources */,
 				BBF7318120432BA200AFB30E /* AppDelegate.swift in Sources */,
